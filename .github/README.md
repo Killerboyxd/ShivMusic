@@ -2,7 +2,7 @@
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    「 𝕮𝖍𝖆𝖒𝖕𝖚 」</h2>
+    「 𝖘𝖍𝖎𝖛 」</h2>
 
 <p align="center">
   <img src="https://github.com/TheChampu/ChampuMusic/blob/main/TheChampu.gif">
@@ -10,7 +10,7 @@
 <h3 align="center">
 ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs 
 
-[❥𝕮𝖍𝖆𝖒𝖕𝖚 ᭄_🖤⚜☄](https://t.me/champumusicbot)
+[❥𝖘𝖍𝖎𝖛 ᭄_🖤⚜☄](https://t.me/SUCHI_BABY_BOT)
 
 <h3 align="center">
 ━━━━━━━━━━━━━━━━━━━━
@@ -107,11 +107,11 @@ sudo pkill -9 python3
 ━━━━━━━━━━━━━━━━━━━━
 
 <h3 align="center">
-    ─「 🖤ꜱнͥινͣαͫиѕнυ🖤 」─
+    ─「 🖤ꜱнͥινͣ🖤 」─
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/ShivanshuDeo"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/ll_SABKA_BHAI_KILLER_ll"><img src="https://img.shields.io/badge/-Owner-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
@@ -119,7 +119,7 @@ sudo pkill -9 python3
 </h3>
 
 <p align="center">
-<a href="https://telegram.me/TheShivanshu"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/BAAP_HUN"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <h3 align="center">
